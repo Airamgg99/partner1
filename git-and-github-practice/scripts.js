@@ -1,11 +1,11 @@
 // Fork repository Airam99
 
-let myName = 'test Airam and Musa'
+let myName = 'Test Airam and Musa'
 
 function returnPersonName(name) {
-	name = 'hecho'
+	name = 'Musa and Airam'
 	return name
 }
 
-returnPersonName(myName) // Julia
-console.log(myName) // Juan Pablo 
+returnPersonName(myName)
+console.log(myName)
